@@ -1,4 +1,4 @@
-def parrot (bird, sound = Squawk!)
-"#{sound}-#{bird}"
+def parrot (sound = Squawk!)
+"#{sound}"
 puts parrot
 end
